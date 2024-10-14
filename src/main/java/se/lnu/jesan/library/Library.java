@@ -1,4 +1,4 @@
-package se.lnu.jesan;
+package se.lnu.jesan.library;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

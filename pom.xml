@@ -41,7 +41,7 @@
                 </executions>
                 <configuration>
                     <classpathScope>test</classpathScope>
-                    <mainClass>se.lnu.jesan.Tutorial</mainClass>
+                    <mainClass>se.lnu.jesan.library.Tutorial</mainClass>
                 </configuration>
             </plugin>
         </plugins>

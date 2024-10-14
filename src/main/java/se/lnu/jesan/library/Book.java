@@ -1,4 +1,4 @@
-package se.lnu.jesan;
+package se.lnu.jesan.library;
 
 public class Book {
     private String title;

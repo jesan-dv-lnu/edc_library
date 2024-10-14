@@ -1,4 +1,4 @@
-package se.lnu.jesan;
+package se.lnu.jesan.library;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.AuthenticationException;
 import org.apache.shiro.authc.UsernamePasswordToken;
